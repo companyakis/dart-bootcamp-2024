@@ -21,4 +21,14 @@ void main() {
 
   int ethHeHas = int.parse(ethBalance);
 
+  //number to number type conversion
+  
+  int a = 100;
+  
+  double b = 10.10;
+  
+  int c = b.toInt();
+  
+  double d = a.toDouble();
+
 }
