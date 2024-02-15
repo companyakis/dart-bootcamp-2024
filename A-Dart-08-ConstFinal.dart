@@ -1,4 +1,8 @@
 void main() {
+
+
+  //final keyword is a run-time constant
+  //const keyword is a compile-time constant
   
   int radius1 = 4;
   
