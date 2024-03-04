@@ -4,7 +4,9 @@ mixin Sleeping {
   
   late double sleepingHours;
 
+  late String name;
+
   void printSleepingHours() {
-    print("He/She/It sleeps $sleepingHours hours.");
+    print("$name sleeps $sleepingHours hours.");
   }
 }
